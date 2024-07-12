@@ -2,15 +2,11 @@ Thrilled to unveil my latest project – Taskmate.
 
 It is a task management web application that users may use to organise their tasks efficiently.
 
-
-👨‍💻Tech Stack: 
-
+👨‍💻Tech Stack:
 
 MERN with Tailwind CSS
 
-
 ✨ Key Features:
-
 
 -Task CRUD operations with REST APIs
 
@@ -18,9 +14,7 @@ MERN with Tailwind CSS
 
 -Password encryption with Bcrypt
 
-
 🚀 Get Started:
-
 
 -Clone the repo.
 
@@ -29,11 +23,3 @@ MERN with Tailwind CSS
 -Configure environment variables.
 
 -Run the server & explore ("npm run dev")
-
-
-Hosted at:
-
-
-https://taskmate-kfuq.onrender.com/
-
-Default login account is user123 and password is 12345678
